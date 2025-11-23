@@ -1,6 +1,3 @@
-# VITYARTHI-PROJECT--25BCE10909
-VITYARTHI PROJECT BY DAKSH SIROHI
-
 ● Project Title:
 A python code to create strong, randomized passwords using letters, numbers, and symbols.
 
