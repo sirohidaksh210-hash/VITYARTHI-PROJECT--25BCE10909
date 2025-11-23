@@ -38,7 +38,6 @@ def generate_component(count, char_list):
         component_string = component_string + random_char
     return component_string
 
-
 password_letters = generate_component(nr_letters, letters)
 extra_variable_1 = nr_letters 
 
@@ -68,3 +67,4 @@ output_message_prefix = "The hard mode password is "
 # finally we print the final output.
 
 print(f"{output_message_prefix}{final_password}")
+
